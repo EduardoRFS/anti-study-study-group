@@ -37,9 +37,9 @@ Beta reduction is enough to describe recursion, by calling a function with itsel
 
 ### References
 
-https://en.wikipedia.org/wiki/Alonzo_Church
-https://en.wikipedia.org/wiki/Lambda_calculus
-https://en.wikipedia.org/wiki/Fixed-point_combinator
-https://www.youtube.com/watch?v=3VQ382QG-y4
-https://www.youtube.com/watch?v=ZubUegcbOYc
-https://www.youtube.com/watch?v=Ao-OajJdz2s
+- https://en.wikipedia.org/wiki/Alonzo_Church
+- https://en.wikipedia.org/wiki/Lambda_calculus
+- https://en.wikipedia.org/wiki/Fixed-point_combinator
+- https://www.youtube.com/watch?v=3VQ382QG-y4
+- https://www.youtube.com/watch?v=ZubUegcbOYc
+- https://www.youtube.com/watch?v=Ao-OajJdz2s
